@@ -1,0 +1,17 @@
+body{
+    background-color: #141723;
+    color: white;
+}
+h2 {
+    text-align:center;
+    text-shadow: 0 0 5px rgb(110, 108, 223);
+}
+ul{
+    text-align: left;
+    text-decoration-style: solid;
+    text-decoration-color: blueviolet;
+}
+.btn:hover {
+    background-color: #1f0303;
+    color: white;
+}
