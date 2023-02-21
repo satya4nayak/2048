@@ -1,9 +1,9 @@
 body {
-    font:Elephant;
-    text-align:center;
-    background-color:#141723;
+    font: Elephant;
+    text-align: center;
+    background-color: #141723;
     text-shadow: 0 0 5px rgb(110, 108, 223);
-    color:white;
+    color: white;
 }
 hr {
     width: 500px;
