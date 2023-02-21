@@ -38,56 +38,56 @@ hr {
 
 .x2 {
     background-color: #eee4da;
-    color: #0a71d1;
+    color: #727371;
 }
 
 .x4 {
-    background-color: #1a8a5d;
+    background-color: #ece0ca;
     color: #727371;
 }
 
 .x8 {
-    background-color: #194c70;
+    background-color: #f4b17a;
     color: white;
 }
 
 .x16 {
-    background-color: #2f1673;
+    background-color: #f59575;
     color: white;
 }
 
 .x32 {
-    background-color: #e07141;
+    background-color: #f57c5f;
     color: white;
 }
 
 .x64 {
-    background-color: #c2902d;
+    background-color: #f65d3b;
     color: white;
 }
 
 .x128 {
-    background-color: #7a1fab;
+    background-color: #edce71;
     color: white;
 }
 
 .x256 {
-    background-color: #18c72f;
+    background-color: #edcc63;
     color: white;
 }
 
 .x512 {
-    background-color: #a3a612;
+    background-color: #edc651;
     color: white;
 }
 
 .x1024 {
-    background-color: #0e0740;
+    background-color: #eec744;
     color: white;
 }
 
 .x2048 {
-    background-color: #c70032;
+    background-color: #ecc230;
     color: white;
 }
 
@@ -104,6 +104,7 @@ a{
     width: 20px;
     height: 30px;
 }
+
 
 .btn {
   background: #e0f5ff;
