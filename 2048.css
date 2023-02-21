@@ -13,8 +13,8 @@ hr {
     width: 400px;
     height: 400px;
 
-    background-color: #cdc1b5;
-    border: 6px solid #bbada0;
+    background-color: #141723;
+    border: 6px solid #121111;
 
     margin: 0 auto;
     display: flex;
@@ -38,56 +38,56 @@ hr {
 
 .x2 {
     background-color: #eee4da;
-    color: #727371;
+    color: #0a71d1;
 }
 
 .x4 {
-    background-color: #ece0ca;
+    background-color: #1a8a5d;
     color: #727371;
 }
 
 .x8 {
-    background-color: #f4b17a;
+    background-color: #194c70;
     color: white;
 }
 
 .x16 {
-    background-color: #f59575;
+    background-color: #2f1673;
     color: white;
 }
 
 .x32 {
-    background-color: #f57c5f;
+    background-color: #e07141;
     color: white;
 }
 
 .x64 {
-    background-color: #f65d3b;
+    background-color: #c2902d;
     color: white;
 }
 
 .x128 {
-    background-color: #edce71;
+    background-color: #7a1fab;
     color: white;
 }
 
 .x256 {
-    background-color: #edcc63;
+    background-color: #18c72f;
     color: white;
 }
 
 .x512 {
-    background-color: #edc651;
+    background-color: #a3a612;
     color: white;
 }
 
 .x1024 {
-    background-color: #eec744;
+    background-color: #0e0740;
     color: white;
 }
 
 .x2048 {
-    background-color: #ecc230;
+    background-color: #c70032;
     color: white;
 }
 
